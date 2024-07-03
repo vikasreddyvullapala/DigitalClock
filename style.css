@@ -18,7 +18,7 @@
     color: azure;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     border-radius: 5px;
-    background-image: linear-gradient(to right, #ff1573, #ff4489, #ff619d, #ff79b0, #ff8fc1);}
+    background-image: linear-gradient(to right, #ff1574, #ff4488, #ff619d, #ff79b1, #ff8fc2);}
 .wish{
     margin: 1rem;
 }
@@ -29,7 +29,7 @@
         font-size: 0.7rem;
         border-radius: 3px;
     color: #ff1573;
-    background-color: rgba(250, 235, 215, 0.37);
+    background-color: rgba(251, 236, 216, 0.36);
         padding: 0px 0.5%;
     }
    
